@@ -27,26 +27,6 @@
 #dropdown-menu-2btn-b .navbar-toggler {
   color: #ffffff;
 }
-#dropdown-menu-2btn-i .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-2btn-i .nav .link,
-#dropdown-menu-2btn-i .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-2btn-i .navbar,
-#dropdown-menu-2btn-i .dropdown-menu {
-  background: #333333;
-}
-#dropdown-menu-2btn-i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-2btn-i .dropdown-menu a:hover,
-#dropdown-menu-2btn-i .dropdown-menu a:focus {
-  background: #292929;
-}
-#dropdown-menu-2btn-i .navbar-toggler {
-  color: #ffffff;
-}
 #dropdown-menu-2btn-o .hide-buttons [data-button] {
   display: none !important;
 }
