@@ -1,0 +1,80 @@
+#msg-box4-z .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-article {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-i .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-i .nav .link,
+#dropdown-menu-2btn-i .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-i .navbar,
+#dropdown-menu-2btn-i .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-i .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-i .dropdown-menu a:hover,
+#dropdown-menu-2btn-i .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-i .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-2btn-o .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-o .nav .link,
+#dropdown-menu-2btn-o .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-o .navbar,
+#dropdown-menu-2btn-o .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-o .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-o .dropdown-menu a:hover,
+#dropdown-menu-2btn-o .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-o .navbar-toggler {
+  color: #ffffff;
+}
+#content5-u .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-u .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-u .mbr-article {
+  color: #fff;
+}
